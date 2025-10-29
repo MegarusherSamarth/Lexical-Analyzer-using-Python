@@ -12,7 +12,6 @@ A modular lexical analyzer built with Python and React, designed to tokenize and
 - [How It Works](#how-it-works)
 - [Folder Structure](#folder-structure)
 - [Use Cases](#use-cases)
-- [Screenshots](#screenshots)
 - [License](#license)
 - [Author](#author)
 
@@ -113,14 +112,6 @@ Lexical-Analyzer-using-Python/
 - Tokenization for NLP preprocessing
 - Educational tool for understanding lexical analysis
 - Base for building interpreters or parsers
-
----
-
-## 🖼️ Screenshots
-
-> Add screenshots of:
-> - React UI with sample input/output
-> - Console output from backend
 
 ---
 
