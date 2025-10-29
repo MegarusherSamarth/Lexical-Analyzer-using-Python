@@ -145,5 +145,3 @@ Feel free to fork, raise issues, or submit pull requests.
 For suggestions or collaboration, reach out via GitHub Issues or Discussions.
 
 ---
-
-Let me know if you want help generating screenshots, writing a LICENSE file, or integrating the backend with React via API. I can also help you scaffold a README for your HFT simulator next.
